@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 
-#########################第二次修改后jie的代码
+#########################2023.6.7：15：50修改后的
 
 # 使用GPU加速，如果没有GPU，则使用CPU
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
