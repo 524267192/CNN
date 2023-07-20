@@ -8,7 +8,7 @@
 ### 一、数据准备
 
 神经网络的特征：2x64x64,标签：64x64x4。
-printStr()函数的输入：2x64x64的tensor数据，输出：指定格式的result数据
+printStr()函数的输入：4096x2的list数据，输出：指定格式的result数据
 
 ### 二、CNN模型
 
